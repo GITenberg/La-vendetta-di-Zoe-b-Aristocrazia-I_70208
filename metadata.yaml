@@ -1,0 +1,28 @@
+_repo: La-vendetta-di-Zoe-b-Aristocrazia-I_70208
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bersezio, Vittorio
+    birthdate: 1830
+    deathdate: 1900
+    gutenberg_agent_id: '31126'
+    url: http://www.gutenberg.org/2009/agents/31126
+description: ''
+gutenberg_issued: '2023-03-05'
+identifiers:
+  gutenberg: '70208'
+language: it
+pgterms:marc904: https://archive.org/details/lavendettadizoe00bersuoft
+pgterms:marc905: 20180313080846bersezio
+pgterms:marc906: '1895'
+pgterms:marc907: IT
+production_note: Barbara Magni and the Online Distributed Proofreading Team at http://www.pgdp.net
+  (This file was produced from images made available by The Internet Archive)
+publication_note: '  $aItaly :$bFratelli Treves, $c1895.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'La vendetta di Zoe : $b Aristocrazia I'
+url: http://www.gutenberg.org/ebooks/70208
