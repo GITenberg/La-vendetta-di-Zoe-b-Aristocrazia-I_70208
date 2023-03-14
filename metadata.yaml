@@ -1,5 +1,8 @@
 _repo: La-vendetta-di-Zoe-b-Aristocrazia-I_70208
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70208-h/images/cover.jpg
 creator:
   author:
     agent_name: Bersezio, Vittorio
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '31126'
     url: http://www.gutenberg.org/2009/agents/31126
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70208#La-vendetta-di-Zoe-b-Aristocrazia-I
 gutenberg_issued: '2023-03-05'
 identifiers:
   gutenberg: '70208'
